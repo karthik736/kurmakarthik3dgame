@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fcc2678f-7578-423e-b1c5-67941ce8a8aa",
+  "files": [],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "fcc2678f-7578-423e-b1c5-67941ce8a8aa@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 288
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2deab": {
+      "importer": "gltf-material",
+      "uuid": "fcc2678f-7578-423e-b1c5-67941ce8a8aa@2deab",
+      "displayName": "",
+      "id": "2deab",
+      "name": "Default_Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ca1b": {
+      "importer": "gltf-scene",
+      "uuid": "fcc2678f-7578-423e-b1c5-67941ce8a8aa@5ca1b",
+      "displayName": "",
+      "id": "5ca1b",
+      "name": "HexaBase.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "fcc2678f-7578-423e-b1c5-67941ce8a8aa@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "fcc2678f-7578-423e-b1c5-67941ce8a8aa@2deab"
+      ],
+      "scenes": [
+        "fcc2678f-7578-423e-b1c5-67941ce8a8aa@5ca1b"
+      ]
+    }
+  }
+}
